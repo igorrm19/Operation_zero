@@ -1,2 +1,4 @@
-Status: VIVO 
+Status: ALIVE 
 HP: 100
+Weakness: HEADSHOT
+
