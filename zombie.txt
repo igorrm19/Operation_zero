@@ -1,4 +1,2 @@
-Status: ALIVE 
-HP: 100
-Weakness: HEADSHOT
+Status: NEUTRALIZAD - HP: 0
 
