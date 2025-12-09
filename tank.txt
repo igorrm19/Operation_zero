@@ -1,1 +1,1 @@
-Boss: TANK - Status: DEAD - HP: 0
+Boss: TANK - Status: OBLITERATED - HP: -500 (Airstrike + Headshot)
