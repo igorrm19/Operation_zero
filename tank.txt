@@ -1,0 +1,3 @@
+Boss: TANK
+Status: ALIVE
+HP: 1000
