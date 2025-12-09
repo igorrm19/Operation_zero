@@ -1,3 +1,1 @@
-Boss: TANK
-Status: ALIVE
-HP: 1000
+Boss: TANK - Status: DEAD - HP: 0
